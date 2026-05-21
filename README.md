@@ -5,8 +5,7 @@
 
 ---
 <p align="center">
-  <a href="[<img width="1190" height="665" alt="image" src="https://github.com/user-attachments/assets/4281d303-f784-4738-87da-892bc4c65ed5" />
-](https://www.youtube.com/watch?v=hD9eKBaG4hY)">
+  <a href="[<img width="1190" height="665" alt="image" src="https://github.com/user-attachments/assets/4281d303-f784-4738-87da-892bc4c65ed5" />](https://www.youtube.com/watch?v=hD9eKBaG4hY)">
     <img src="여기에_썸네일_또는_스크린샷_이미지_주소_입력" alt="유튜브 영상 보러가기" width="70%"/>
   </a>
 </p>
