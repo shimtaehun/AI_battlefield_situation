@@ -2,9 +2,11 @@
 
   YOLO 기반 실시간 전장 상황 인식, 자율주행, 자동 포격 시뮬레이션 시스템
 
----
-[![Video](https://img.youtube.com/vi/ZVW1V0nwgGI/0.jpg)](https://youtu.be/ZVW1V0nwgGI)
-
+---<div align="center">
+  <a href="https://youtu.be/ZVW1V0nwgGI">
+    <img src="https://img.youtube.com/vi/ZVW1V0nwgGI/maxresdefault.jpg" width="600"/>
+  </a>
+</div
 
 ## 📌 프로젝트 설명
 
