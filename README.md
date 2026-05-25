@@ -3,7 +3,9 @@
   YOLO 기반 실시간 전장 상황 인식, 자율주행, 자동 포격 시뮬레이션 시스템
 
 ---
-<img width="800" height="225" alt="최종" src="https://github.com/user-attachments/assets/5a7c3e96-3b84-4bb5-97cb-b5cae9ca4070" />
+[![Video](https://img.youtube.com/vi/ZVW1V0nwgGI/0.jpg)](https://youtu.be/ZVW1V0nwgGI)
+
+
 ## 📌 프로젝트 설명
 
 이 프로젝트는 **Unity 기반 전장 시뮬레이터에서 전차가 스스로 주변 상황을 인식하고, 적 전차를 탐지하여 자동으로 포격 및 회피 기동까지 수행하는 전장상황인식 시스템**을 구현하는 것을 목표로 한다.
