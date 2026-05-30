@@ -1,13 +1,14 @@
 # 🛡️ Tank Challenge 시뮬레이터 - 전장상황인식
 
   YOLO 기반 실시간 전장 상황 인식, 자율주행, 자동 포격 시뮬레이션 시스템
-
----<div align="center">
+---
+<div align="center">
+  # 영상재생
   <a href="https://youtu.be/ZVW1V0nwgGI">
     <img src="https://img.youtube.com/vi/ZVW1V0nwgGI/maxresdefault.jpg" width="600"/>
   </a>
 </div
-
+# 클릭하면 영상페이지로 넘어갑니다.
 ## 📌 프로젝트 설명
 
 이 프로젝트는 **Unity 기반 전장 시뮬레이터에서 전차가 스스로 주변 상황을 인식하고, 적 전차를 탐지하여 자동으로 포격 및 회피 기동까지 수행하는 전장상황인식 시스템**을 구현하는 것을 목표로 한다.
