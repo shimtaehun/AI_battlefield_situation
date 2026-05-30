@@ -3,7 +3,7 @@
   YOLO 기반 실시간 전장 상황 인식, 자율주행, 자동 포격 시뮬레이션 시스템
 ---
 <div align="center">
-  영상재생
+  #시연영상
 </div>
 
 <div align="center">
